@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @buguzei
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
-- 📫 My email: acmkantemir@gmail.com
+Entrepreneur, innovator and a little bit Go-developer. 🤙🏼
 
 <!---
 buguzei/buguzei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
